@@ -1,0 +1,21 @@
+---
+layout : post
+title: "Web Scraping con python"
+subtitle: "Recopilación de datos utilizando BeautifulSoup"
+background: '/img/post/01.jpg'
+---
+
+## Background
+
+## Instalación de paquetes
+```
+import pandas as pd
+```
+## Pagina Web
+![IMDb page]()
+
+## Scraping de datos
+
+## Scribimos el archivo .csv
+
+
